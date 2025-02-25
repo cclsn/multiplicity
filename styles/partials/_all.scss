@@ -1,8 +1,8 @@
-@import "variables";
-@import "global";
-@import "typography";
-@import "skiplink";
-@import "menu";
-@import "pagination";
-@import "sitelist";
-@import "footer";
+@use "variables" as *;
+@use "global" as *;
+@use "typography" as *;
+@use "skiplink" as *;
+@use "menu" as *;
+@use "pagination" as *;
+@use "sitelist" as *;
+@use "footer" as *;
