@@ -1,5 +1,5 @@
 ---
-name: Manuel Matuzovic
+name: matuzo.at
 url: https://matuzo.at/
 avatar: https://matuzo.at/favicon.ico
 feed: https://matuzo.at/feed.xml

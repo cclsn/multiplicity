@@ -1,5 +1,5 @@
 ---
-name: "CSS {In Real Life}"
+name: css-irl.info
 url: https://css-irl.info/
 avatar: https://css-irl.info/favicon/favicon-16x16.png
 feed: https://css-irl.info/rss.xml

@@ -1,5 +1,5 @@
 ---
-name: Piccalilli Links
+name: piccalil.li - Links
 url: https://www.piccalil.li/
 avatar: https://www.piccalil.li/favicons/favicon.ico
 feed: https://piccalil.li/links.xml
