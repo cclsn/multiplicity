@@ -1,5 +1,5 @@
-@use "vendors/all as *";
-@use "partials/all as *";
+@use "vendors/all" as *;
+@use "partials/all" as *;
 
 .container {
   max-width: 48rem;
