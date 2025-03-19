@@ -1,8 +1,8 @@
 const packageJson = require("../../package.json");
 
 module.exports = {
-  title: "Multiplicity",
-  description: "Eleventy-based RSS/JSON feed aggregator template",
+  title: "cclsn",
+  description: "Eleventy-based RSS/JSON feed aggregator",
   author: "Multiple Authors",
   url: "https://eleventy-m10y.lkmt.us/",
   github: {
