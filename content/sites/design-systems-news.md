@@ -1,5 +1,5 @@
 ---
-name: news.design.systems
+name: Design Systems News
 url: https://news.design.systems/
 avatar: https://news.design.systems/favicon.ico
 feed: https://news.design.systems/issues.rss
