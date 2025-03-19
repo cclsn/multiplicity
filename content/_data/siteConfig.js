@@ -1,7 +1,7 @@
 const packageJson = require("../../package.json");
 
 module.exports = {
-  title: "cclsn’s Feeds",
+  title: "cclsn",
   description: "Eleventy-based RSS/JSON feed aggregator",
   author: "Multiple Authors",
   url: "multiplicity.pages.dev",
